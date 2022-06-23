@@ -21,3 +21,5 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # If you want to ignore the monsters folder during builds
 # exclude: /resources/monsters
+
+theme: jekyll-theme-tactile
